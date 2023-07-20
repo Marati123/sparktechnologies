@@ -1,0 +1,148 @@
+
+* {
+    margin: 0%;
+}
+
+.bg-container {
+    height: 100vh;
+    background: linear-gradient(rgb(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url("https://res.cloudinary.com/drmukp5dw/image/upload/v1689783067/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.16x9_kjywop.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+
+
+
+}
+
+.logo-image-size {
+    width: 120px;
+    border-radius: 200px;
+}
+
+.logo-image-size2 {
+    width: 200px;
+    border-radius: 500px;
+}
+
+.navbar-font-sytle {
+    color: black;
+    font-weight: bold;
+    text-underline-position: auto;
+}
+
+.book-card {
+    background-image: linear-gradient(#ffffff, #999999);
+    padding: 10px;
+    border-radius: 12px;
+    width: 100%;
+
+
+}
+
+.heading {
+    color: #e1e0e0;
+    font-family: serif;
+    font-size: 30px;
+}
+
+.image-size-hotel {
+    border-radius: 50px;
+}
+
+.paragraph {
+    color: rgb(236, 234, 234);
+    font-style: bold;
+    font-size: 25px;
+}
+
+.card-container {
+    position: absolute;
+
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(161, 110, 0, 0);
+
+
+}
+
+.down-container {
+    background-color:
+        #282726;
+}
+
+.item-card {
+    background-color: #ffffff;
+}
+
+.explore-room {
+    color: #e8e9ea;
+
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.card-title {
+    color: #030303;
+    font-family: serif;
+    font-size: 25px;
+    font-weight: bold solid 5px;
+}
+
+.icon-container {
+    background-color: transparent;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon-tw {
+    color: lightblue;
+    font-size: 35px;
+}
+
+.icon-insta {
+    color: rgb(222, 39, 66);
+    font-size: 35px;
+}
+
+.icon-fb {
+    color: blue;
+    font-size: 35px;
+}
+
+.icon-yt {
+    color: red;
+    font-size: 35px;
+}
+
+.icon-lkd {
+    color: rgb(46, 129, 197);
+    font-size: 35px;
+}
+
+.section-heading {
+    color: #ffffff;
+}
+
+.mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.follow_us_section {
+    overflow-y: auto;
+}
